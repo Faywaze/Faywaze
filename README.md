@@ -6,7 +6,7 @@
 
 🎓 I'm currently completing my **Bachelor's degree in Computer Science** at HEPH Condorcet (Application Development focus)  
 💼 Passionate developer specialized in **Python & Django**  
-🌍 English level: **C1** – ready to work in both English 🇬🇧 and French 🇫🇷
+🌍 English level: **C1** – ready to work in both English and French
 
 ---
 
