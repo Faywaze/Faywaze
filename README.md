@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Gary 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views" alt="profile-views">
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
